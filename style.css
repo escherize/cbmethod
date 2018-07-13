@@ -2,6 +2,10 @@
 font-family: 'Montserrat', sans-serif;
 font-family: 'Abril Fatface', cursive;
 */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
 
 h1 {
     font-family: 'Abril Fatface', cursive;
@@ -19,6 +23,7 @@ h1 {
 h3 {
     font-family: 'Abril Fatface', cursive;
     margin-top: 40px;
+    font-size: 36px;
 }
 
 li {
@@ -50,7 +55,7 @@ p.lead {
 }
 
 div.content {
-    margin: 100px;
+    margin: auto;
     max-width: 800px;
 }
 

@@ -15,7 +15,7 @@
   </head>
   <body>
     <main class="contanier">
-      <div class="jumbotron pad content">
+      <div class="jumbotron pad">
         <h1>The Cold Brew Method</h1>
         <img class="main center" alt="" src="coffee1.jpg"/>
         <p class="lead">Smooth, sweet, and ready at a moment's notice. <strong>Cold brew coffee is the best.</strong> But trying to figure out the correct methods and ratios got confusing. This is the best method that I've found for cold brew concentrate, and it's also the easiest!</p>
@@ -27,7 +27,7 @@
           </li>
           <li><strong>Grind your beans</strong> on your coarsest setting, conversely grind it at the store or cafe at the coarsest setting. You could also buy coffee that's already ground, but make sure it's coursely ground.
           </li>
-          <li>Because the grinder will still make some small pieces, you may want to use a mesh strainer to get rid of the smallest bits. This will keep your coffee from getting bitter and cloudy.
+          <li>Because the grinder will still make some small pieces, you may optionally use a mesh strainer to get rid of the smallest bits. This will keep your coffee from getting bitter and cloudy.
           </li>
           <li><strong>Put</strong> the ground coffee in your air-tight container.
           </li>
@@ -44,30 +44,12 @@
           <li>Filtered water (5 cups)</li>
         </ul>
         <h3>Tools</h3>
+        {{#tools}}
         <li>
-          <a href="https://www.amazon.com/Hario-Ceramic-Coffee-Mill-Skerton/dp/B01LXZACFB">Hario Ceramic Coffee Mill</a>
-          <img class="tool" alt="" src="img/skerton.jpg"/>
+          <a href="{{{link}}}">{{title}}</a>
+          <img class="tool" alt="" src="{{{imgPath}}}"/>
         </li>
-        <li>
-          <a href="https://www.amazon.com/gp/product/B00LW8I45C">Baratza Virtuoso</a>
-          <img class="tool" alt="" src="img/virtuoso.jpg"/>
-        </li>
-        <li>
-          <a href="https://www.amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/">Stainless Steel Digital Kitchen Scale</a>
-          <img class="tool" alt="" src="img/scale.jpg"/>
-        </li>
-        <li>
-          <a href="">2 airtight jars</a>
-          <img class="tool" alt="" src=""/>
-        </li>
-        <li>
-          <a href="">Mesh bag</a>
-          <img class="tool" alt="" src=""/>
-        </li>
-        <li>
-          <a href="">cheesecloth and strainer</a>
-          <img class="tool" alt="" src=""/>
-        </li>
+        {{/tools}}
         <ul>
           <li>2 airtight containers such as 2 quart jars</li>
           <li>Mesh bag for coffee or cheesecloth and strainer</li>

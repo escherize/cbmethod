@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"tools": [{"title": "Hario Ceramic Coffee Mill",
             "imgPath": "img/skerton.jpg",
             "link": "https://amzn.to/2NQwkDR"},
@@ -15,3 +16,29 @@
             "link": "https://amzn.to/2NQ3QKq"}
            {"title": "strainer",
              "link":"https://amzn.to/2L8Nkqc"}]}
+=======
+{
+  "tools": [
+    {
+      "title": "Hario Ceramic Coffee Mill",
+      "imgPath": "img/skerton.jpg",
+      "link":
+        "https://www.amazon.com/Hario-Ceramic-Coffee-Mill-Skerton/dp/B01LXZACFB"
+    },
+    {
+      "title": "Baratza Virtuoso",
+      "imgPath": "img/virtuoso.jpg",
+      "link": "https://www.amazon.com/gp/product/B00LW8I45C"
+    },
+    {
+      "title": "Stainless Steel Digital Kitchen Scale",
+      "imgPath": "img/scale.jpg",
+      "link":
+        "https://www.amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/"
+    },
+    { "title": "2 airtight jars" },
+    { "title": "Mesh bag" },
+    { "title": "cheesecloth and strainer" }
+  ]
+}
+>>>>>>> b51a7344003b388eb57ef0b9677c234bc8ab38ef

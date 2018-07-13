@@ -24,7 +24,7 @@ h3 {
 li {
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 img.main {
@@ -50,6 +50,6 @@ p.lead {
 }
 
 div.content {
-    margin: 30px;
-    max-width: 1000px;
+    margin: 100px;
+    max-width: 800px;
 }

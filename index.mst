@@ -62,16 +62,16 @@
   <script src="./jquery.min.js"></script>
   <script src="./bootstrap.min.js"></script>
   <script type="text/javascript">
-   amzn_assoc_placement = "adunit0";
-   amzn_assoc_tracking_id = "coldbrewmethod-20";
-   amzn_assoc_ad_mode = "manual";
-   amzn_assoc_ad_type = "smart";
-   amzn_assoc_marketplace = "amazon";
-   amzn_assoc_region = "US";
-   amzn_assoc_linkid = "253cd3ac2b4b06b46a653e06fd7cd23c";
-   amzn_assoc_asins = "B075DHBTWK,B073QFP3PL,B007TUQF9O,B07BL58L14";
-   amzn_assoc_search_bar = "true";
-   amzn_assoc_title = "My Amazon Picks";
+    amzn_assoc_placement = "adunit0";
+    amzn_assoc_tracking_id = "coldbrewmethod-20";
+    amzn_assoc_ad_mode = "manual";
+    amzn_assoc_ad_type = "smart";
+    amzn_assoc_marketplace = "amazon";
+    amzn_assoc_region = "US";
+    amzn_assoc_linkid = "253cd3ac2b4b06b46a653e06fd7cd23c";
+    amzn_assoc_asins = "B075DHBTWK,B073QFP3PL,B007TUQF9O,B07BL58L14";
+    amzn_assoc_search_bar = "true";
+    amzn_assoc_title = "My Amazon Picks";
   </script>
   <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 </html>

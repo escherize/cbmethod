@@ -58,3 +58,8 @@ div.content {
     margin: auto;
     max-width: 800px;
 }
+
+img.tool {
+    height: 400px;
+    width: auto;
+}

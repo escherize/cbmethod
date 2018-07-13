@@ -1,0 +1,55 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Abril Fatface', cursive;
+*/
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron {
+    padding: 20px 10% 5px 10%;
+}
+
+.jumbotron h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 40px;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+img.main {
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.container {
+    margin: 40px;
+}
+
+p.lead {
+    margin: 30px 0px;
+    font-size: 30px;
+}
+
+div.content {
+    margin: 30px;
+    max-width: 1000px;
+}

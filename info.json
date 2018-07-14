@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+{"tools": [{"title": "Hario Ceramic Coffee Mill",
+            "imgPath": "img/skerton.jpg",
+            "link": "https://amzn.to/2NQwkDR"},
+           {"title": "Baratza Virtuoso",
+            "imgPath": "img/virtuoso.jpg",
+            "link": "https://amzn.to/2mlz9QN"},
+           {"title": "Stainless Steel Digital Kitchen Scale",
+            "imgPath": "img/scale.jpg",
+            "link": "https://amzn.to/2LdkGBa"},
+           {"title": "2 airtight jars"},
+           {"title": "Mesh bag",
+              "link": "https://www.amazon.com/gp/product/B073QFP3PL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B073QFP3PL&linkCode=as2&tag=coldbrewmethod-20&linkId=edd6da1c2497eedc3204bb1466187b57"
+            }
+           {"title": "cheeseclothr",
+            "link": "https://amzn.to/2NQ3QKq"}
+           {"title": "strainer",
+             "link":"https://amzn.to/2L8Nkqc"}]}
+=======
 {
   "tools": [
     {
@@ -22,3 +41,4 @@
     { "title": "cheesecloth and strainer" }
   ]
 }
+>>>>>>> b51a7344003b388eb57ef0b9677c234bc8ab38ef

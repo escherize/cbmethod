@@ -62,6 +62,16 @@ div.content {
 }
 
 img.tool {
-    height: 400px;
+    height: 300px;
     width: auto;
+}
+
+div.card.tool {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tool .card-text {
+    font-size: 20px;
+    text-decoration: none;
 }

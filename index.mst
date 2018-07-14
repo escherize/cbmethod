@@ -29,7 +29,7 @@
         <ol>
           <li> Determine <strong>how many servings</strong> you want to brew. Just divide the number of cups you want by 2, this gives you how much water you need in cups and how much coffee you need in ounces.
           </li>
-          <li><strong>Grind your beans</strong> on your coarsest setting, conversely grind it at the store or cafe at the coarsest setting. You could also buy coffee that's already ground, but make sure it's coursely ground.
+          <li><font-weight-bold>Grind your beans</font-weight-bold> on your coarsest setting, conversely grind it at the store or cafe at the coarsest setting. You could also buy coffee that's already ground, but make sure it's coursely ground.
           </li>
           <li><strong>Optionally, use a mesh strainer to remove fine grounds</strong> to prevent the coffee from getting bitter and cloudy. Grinders will still produce some fine grounds even on the coursest setting.
           </li>
@@ -48,14 +48,30 @@
           <li>Filtered water (5 cups)</li>
         </ul>
         <h3>Tools</h3>
-        <p>Note: We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</p>
-        {{#tools}}
-        <li>
-          <a href="{{{link}}}">{{title}}</a>
-          <img class="tool" alt="" src="{{{imgPath}}}"/>
-        </li>
-        {{/tools}}
+        <p>We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</p>
+        <div class="card-columns">
+          {{#tools}}
+          <div class="card tool">
+            <a class="tool" href="{{{link}}}">
+              <img class="card-img-top" src="{{{imgPath}}}" alt="">
+            </a>
+            <div class="card-body">
+              <a class="tool" href="{{{link}}}">
+                <h4>{{title}}</h4>
+              </a>
+              {{#description}}
+              <p class="card-text">{{description}}</p>
+              {{/description}}
+            </div>
+          </div>
+          {{/tools}}
+        </div>
       </div>
+      <footer class="text-muted">
+        <div class="container">
+          <p>© Bryan Maass & Sarah Arnegard, 2018</p>
+        </div>
+      </footer>
     </main>
   </body>
   <script src="./jquery.min.js"></script>

@@ -3,33 +3,40 @@
     {
       "imgPath": "img/skerton.jpg",
       "link": "https://amzn.to/2NQwkDR",
-      "title": "Hario Ceramic Coffee Mill"
+      "title": "Hario Ceramic Coffee Mill",
+      "description": "This is the grinder we use. It gives great results but can be a little time consuming."
     },
     {
       "imgPath": "img/virtuoso.jpg",
       "link": "https://amzn.to/2mlz9QN",
-      "title": "Baratza Virtuoso"
+      "title": "Baratza Virtuoso",
+      "description": "We like this grinder if you prefer electric."
     },
     {
       "imgPath": "img/scale.jpg",
       "link": "https://amzn.to/2LdkGBa",
-      "title": "Stainless Steel Digital Kitchen Scale"
+      "title": "Stainless Steel Digital Kitchen Scale",
+      "description": "A simple scale makes coffee measurements accurate, which is important for any brew."
+
     },
     {
       "imgPath": "img/jars.jpg",
       "link": "https://www.amazon.com/gp/product/B00YVYPHX6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YVYPHX6&linkCode=as2&tag=coldbrewmethod-20&linkId=8c89264754ce255c65dcf48c5086800f",
       "title": "Two airtight jars",
-      "description": "You'll want at least 2 quarts / 64 oz for our recipe"
+      "description": "You'll want at least 2 quarts / 64 oz for our recipe."
     },
     {
       "imgPath": "img/mesh_bag.jpg",
       "link": "https://www.amazon.com/gp/product/B073QFP3PL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B073QFP3PL&linkCode=as2&tag=coldbrewmethod-20&linkId=edd6da1c2497eedc3204bb1466187b57",
-      "title": "Reusable mesh bag"
+      "title": "Reusable mesh bag",
+      "description": "We like this because it's cheap and reusable."
+
     },
     {
       "imgPath": "img/strainer.jpg",
       "link": "https://amzn.to/2L8Nkqc",
-      "title": "Strainer"
+      "title": "Strainer",
+      "description": "You probably have one of these at home already. You can use this for sifting out fine grounds. You can also use it for straining the brewed coffee if you add cheesecloth."
     }
   ]
 }

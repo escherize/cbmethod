@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>The Cold Brew Method</title>
+    <meta name="description" content="How to make cold brew coffee concentrate, with easy to remember ratios and a simple method. No fancy equipment needed.">
     <link href="bootstrap.min.css"
           rel="stylesheet"
           integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
@@ -15,7 +16,7 @@
   </head>
   <body>
     <main class="contanier">
-      <div class="jumbotron pad">
+      <div class="jumbotron pad content">
         <h1>The Cold Brew Method</h1>
         <img class="main center" alt="" src="coffee1.jpg"/>
         <p class="lead">Smooth, sweet, and ready at a moment's notice. <strong>Cold brew coffee is the best.</strong> But trying to figure out the correct methods and ratios got confusing. This is the best method that I've found for cold brew concentrate, and it's also the easiest!</p>
@@ -60,17 +61,4 @@
   </body>
   <script src="./jquery.min.js"></script>
   <script src="./bootstrap.min.js"></script>
-  <script type="text/javascript">
-    amzn_assoc_placement = "adunit0";
-    amzn_assoc_tracking_id = "coldbrewmethod-20";
-    amzn_assoc_ad_mode = "manual";
-    amzn_assoc_ad_type = "smart";
-    amzn_assoc_marketplace = "amazon";
-    amzn_assoc_region = "US";
-    amzn_assoc_linkid = "253cd3ac2b4b06b46a653e06fd7cd23c";
-    amzn_assoc_asins = "B075DHBTWK,B073QFP3PL,B007TUQF9O,B07BL58L14";
-    amzn_assoc_search_bar = "true";
-    amzn_assoc_title = "My Amazon Picks";
-  </script>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 </html>

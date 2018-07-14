@@ -51,6 +51,11 @@
         </li>
         {{/tools}}
       </div>
+      <footer class="text-muted">
+        <div class="container">
+          <p>© Bryan Maass & Sarah Arnegard, 2018</p>
+        </div>
+      </footer>
     </main>
   </body>
   <script src="./jquery.min.js"></script>

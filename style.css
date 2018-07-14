@@ -5,6 +5,7 @@ font-family: 'Abril Fatface', cursive;
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  font-weight: normal;
 }
 
 h1 {
@@ -52,6 +53,7 @@ img.main {
 p.lead {
     margin: 30px 0px;
     font-size: 30px;
+    font-weight: normal;
 }
 
 div.content {

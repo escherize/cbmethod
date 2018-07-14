@@ -7,12 +7,13 @@
 
     <title>The Cold Brew Method</title>
     <meta name="description" content="How to make cold brew coffee concentrate, with easy to remember ratios and a simple method. No fancy equipment needed.">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat" rel="stylesheet">
     <link href="bootstrap.min.css"
           rel="stylesheet"
           integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
           crossorigin="anonymous">
     <link href="style.css" rel="stylesheet"/>
-    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat" rel="stylesheet">
+
   </head>
   <body>
     <main class="contanier">
@@ -20,23 +21,23 @@
         <div class="content">
           <h1>The Cold Brew Method</h1>
           <img class="main center" alt="" src="coffee1.jpg"/>
-          <p class="lead">Smooth, sweet, and ready at a moment's notice. <strong>Cold brew coffee is the best.</strong> But trying to figure out the correct methods and ratios got confusing. This is the best method that I've found for cold brew concentrate, and it's also the easiest!</p>
+          <p class="lead">Smooth, sweet, and ready at a moment's notice. <strong>Cold brew coffee is the best.</strong> But trying to figure out the correct methods and ratios can get confusing. This is the best method that I've found for cold brew concentrate, and it's also the easiest!</p>
         </div>
         </div>
       <div class="content">
         <h3>Method</h3>
         <ol>
-          <li> Determine <strong>how many servings</strong> you want to brew.
+          <li> Determine <strong>how many servings</strong> you want to brew. Just divide the number of cups you want by 2, this gives you how much water you need in cups and how much coffee you need in ounces.
           </li>
           <li><strong>Grind your beans</strong> on your coarsest setting, conversely grind it at the store or cafe at the coarsest setting. You could also buy coffee that's already ground, but make sure it's coursely ground.
           </li>
-          <li>Because the grinder will still make some small pieces, you may optionally use a mesh strainer to get rid of the smallest bits. This will keep your coffee from getting bitter and cloudy.
+          <li><strong>Optionally, use a mesh strainer to remove fine grounds</strong> to prevent the coffee from getting bitter and cloudy. Grinders will still produce some fine grounds even on the coursest setting.
           </li>
-          <li><strong>Put</strong> the ground coffee in your air-tight container.
+          <li>Place the ground coffee in your air-tight container.
           </li>
           <li><strong>Add your water to the jar</strong> and seal tightly. Swirl the jar gently to get all the coffee wet.</li>
-          <li><strong>Refrigerate your jar</strong>, overnight.</li>
-          <li>The next morning, <strong>slowly pour the coffee through your mesh bag into your second container</strong>.</li>
+          <li><strong>Refrigerate your jar</strong> overnight.</li>
+          <li>The next morning, <strong>slowly pour the coffee through your reusable mesh bag into your second container</strong>. If you have cheesecloth and a strainer at home, you could use that instead</li>
           <li><strong>Add 1 part coffee concentrate to 1 part milk or water.</strong> Store the rest of the concentrate in the fridge for up to 2 weeks.</li>
           <li><strong>Enjoy your amazing coffee</strong>, notice its smoothness compared to other methods.</li>
         </ol>

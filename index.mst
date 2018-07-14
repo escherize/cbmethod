@@ -50,12 +50,6 @@
           <img class="tool" alt="" src="{{{imgPath}}}"/>
         </li>
         {{/tools}}
-        <ul>
-          <li>2 airtight containers such as 2 quart jars</li>
-          <li>Mesh bag for coffee or cheesecloth and strainer</li>
-          <li>Strainer</li>
-          <li>Coffee Grinder (optional)</li>
-        </ul>
       </div>
     </main>
   </body>
